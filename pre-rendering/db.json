@@ -1,0 +1,78 @@
+{
+    "products":[
+        {
+            "id":1,
+            "title":"Product 1",
+            "price":1000,
+            "description":"des 1"
+        },
+        {
+            "id":2,
+            "title":"Product 2",
+            "price":2500,
+            "description":"Des 2"
+        },
+        {
+            "id":3,
+            "title":"Product 3",
+            "price":5,
+            "description":"Des 3"
+        }
+    ],
+    "news": [
+        {
+            "id":1,
+            "title":"News 1",
+            "description":"des 1",
+            "category":"sports"
+        },
+        {
+            "id":2,
+            "title":"News 2",
+            "description":"Des 2",
+            "category":"sports"
+        },
+        {
+            "id":3,
+            "title":"News 3",
+            "description":"Des 3",
+            "category":"Politics"
+        }
+    ],
+    "dashboard":{
+        "posts": 5,
+        "likes": 100,
+        "followers":20,
+        "following":50
+    },
+    "events":[
+        {
+            "id": 1,
+            "title": "Event 1",
+            "description": "Description 1 ",
+            "category": "Sports",
+            "data":"April 23"
+        },
+        {
+            "id": 2,
+            "title": "Event 2",
+            "description": "Description 2 ",
+            "category": "Tech",
+            "data":"April 4"
+        },
+        {
+            "id": 3,
+            "title": "Event 3",
+            "description": "Description 3",
+            "category": "Drama",
+            "data":"June 23"
+        },
+        {
+            "id": 4,
+            "title": "Event 4",
+            "description": "Description 4",
+            "category": "Sports",
+            "data":"May 23"
+        }
+    ]
+}
